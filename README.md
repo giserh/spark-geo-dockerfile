@@ -1,0 +1,3 @@
+# Spark Setup for use with Mansour's Spark CSV
+
+This repo is pretty simple, just a way to maintain a Dockerfile to build a Docker image fulfilling the requirements for [Mansour's Spark-CSV-es repo](https://github.com/mraad/spark-csv-es). Using the base Ubuntu 16.04 LTS Docker image this Dockerfile adds Apache Spark, Apache ElasticSearch and Spark-CSV-es to the image along with any other requirments for installation.
